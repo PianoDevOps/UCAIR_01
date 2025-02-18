@@ -1,3 +1,9 @@
+# Data directory
+data/
+
+# Individual Python files
+src/traditiona_analysis.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,6 +134,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.ucair_01_venv/
 .env
 .venv
 env/
