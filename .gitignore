@@ -1,6 +1,9 @@
 # Data directory
 data/
 
+# Experimental Jupyter Notebooks
+src/IGNOREME.ipynb
+
 # Individual Python files
 src/traditiona_analysis.py
 
